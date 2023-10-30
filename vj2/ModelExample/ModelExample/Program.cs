@@ -8,7 +8,7 @@ namespace ModelExample
         {
             Vehicle vehicle = Vehicle.CreateFromUserInput();
             Console.WriteLine(vehicle);
-
+            Console.WriteLine("Dusko Pilipovic");
             Console.ReadKey();
         }
     }
