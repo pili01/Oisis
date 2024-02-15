@@ -80,7 +80,7 @@ namespace Uvod
             }
 
             Console.WriteLine("\nSWITCH");
-            int broj = 2;
+            int broj = 1;
             switch (broj)
             {
                 case 1:
